@@ -1,0 +1,80 @@
+/* smart nhỏ */
+@media screen and (minn-width:240px){
+    img, svg {
+        display: inline-block;
+        vertical-align: middle;
+      }
+      .grid {
+        display: grid;
+      }
+      svg {
+        height: 400px;
+        width: 400px;
+        display: inline-block;
+        float: left;
+      }
+}
+/* ipone(480 x 640)*/
+@media screen and (minn-width:320px){
+    img, svg {
+        display: inline-block;
+        vertical-align: middle;
+      }
+      .grid {
+        display: grid;
+      }
+      svg {
+        height: 400px;
+        width: 400px;
+        display: inline-block;
+        float: left;
+      }
+}
+/* table nhỏ (480 x 640) */
+@media screen and (minn-width:480px){
+    img, svg {
+        display: inline-block;
+        vertical-align: middle;
+      }
+      .grid {
+        display: grid;
+      }
+      svg {
+        height: 400px;
+        width: 400px;
+        display: inline-block;
+        float: left;
+      }
+}
+/* ipad dọc (768 x 1024) */
+@media screen and (minn-width:768px){
+    img, svg {
+        display: inline-block;
+        vertical-align: middle;
+      }
+      .grid {
+        display: grid;
+      }
+      svg {
+        height: 400px;
+        width: 400px;
+        display: inline-block;
+        float: left;
+      }
+}
+/* ipad ngang (1024 x 768) */
+@media screen and (minn-width:1024px){
+    img, svg {
+        display: inline-block;
+        vertical-align: middle;
+      }
+      .grid {
+        display: grid;
+      }
+      svg {
+        height: 400px;
+        width: 400px;
+        display: inline-block;
+        float: left;
+      }
+}
